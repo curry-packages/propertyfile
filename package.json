@@ -7,7 +7,9 @@
     "license": "BSD-3-Clause",
     "licenseFile": "LICENSE",
     "dependencies": {
-        "base": ">= 2.0.0, < 3.0.0"
+        "base":      ">= 2.0.0, < 3.0.0",
+        "directory": ">= 2.0.0, < 3.0.0",
+        "io-extra":  ">= 2.0.0, < 3.0.0"
     },
     "compilerCompatibility": {
         "pakcs": ">= 2.0.0",
